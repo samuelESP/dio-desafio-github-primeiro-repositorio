@@ -2,7 +2,7 @@
 
 Esse diretório tem como objetivo concluir o primeiro projeto do *Santander Bootcamp Fullstack Developer*;
 
-O arquivo *"passo-a-passo"* se refere a todos os passos feito pelo aluno concluir com o exito a atividade.
+O arquivo *[passo-a-passo](https://github.com/samuelESP/dio-desafio-github-primeiro-repositorio/blob/main/Projeto-Git-GitHub/passo-a-passo.md)* se refere a todos os passos feito pelo aluno concluir com o exito a atividade.
 
 ### Desafio
  
