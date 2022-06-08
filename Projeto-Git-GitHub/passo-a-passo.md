@@ -19,3 +19,10 @@ Esse arquivo tem como objetivo demostrar, de forma prática, o passo-a-passo fei
  
  9 Ambos foram escritos e editados pelo programa Notepad++.
  
+ 10 '$ cd ..';
+ 
+ 11 '$ git add*';
+ 
+ 12 '$ git commit -m "primeiro projeto editado";
+ 
+ 13 '$ git push origin main'.
