@@ -11,11 +11,11 @@ Esse arquivo tem como objetivo demostrar, de forma prática, o passo-a-passo fei
  
  5 O arquivo 'README.md' foi aberto e editado com o programa Notepad++;
  
- 6 dentro do diretório dio-desafio-github-primeiro-repositorio' se foi usado o comando no GitBash '$ mkdir Projeto-Git-GitHub';
+ 6 Dentro do 'diretório dio-desafio-github-primeiro-repositorio' se foi usado o comando no GitBash '$ mkdir Projeto-Git-GitHub';
  
  7 '$ cd Projeto-Git-GitHub';
  
- 8 Em seguida se foi criado mais 2 arquivos MakeDown, que se refem a o 'passo-a-passo' e a outro 'README.md';
+ 8 Em seguida se foi criado mais 2 arquivos MakeDown, um que se refem ao 'passo-a-passo', e outro que se refere ao 'README.md';
  
  9 Ambos foram escritos e editados pelo programa Notepad++.
  
